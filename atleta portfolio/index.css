@@ -1,0 +1,118 @@
+head {
+    border: end start radius 10px;
+    ;
+}
+
+body {
+    color: rgb(180, 154, 7);
+    background-color: rgb(22, 19, 19);
+}
+
+#h11 {
+    font-style: italic;
+
+    background-color: rgb(49, 38, 22);
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#IMG1 {
+    border: 4px solid #c1b815;
+
+    border-radius: 50%;
+
+}
+
+#p1 {
+    color: whitesmoke;
+
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#img2 {
+    border: 4px solid;
+    border-color: rgb(198, 203, 27);
+
+}
+
+
+
+li {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+#a2 {
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+h2 {
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#hLAST { display:flex;
+ 
+    width:100%;
+    text-align:center;
+
+    right:100%;
+}
+
+ul {
+    text-align: left;
+    color: whitesmoke
+}
+
+#email {
+   
+}
+
+#insta {
+
+    border-radius: 20px;
+}
+
+#Linkedin{
+
+    border-radius: 20px;
+}
+
+#wpp {
+
+    border-radius: 20%;
+    
+
+}
+
+#gml{ 
+    border-radius: 20%;
+}
+#pLAST{
+   
+}
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
